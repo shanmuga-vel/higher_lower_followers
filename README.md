@@ -1,6 +1,6 @@
 # higher_lower_followers
 
-    
+```
     __  ___       __                                        
    / / / (_)___ _/ /_  ___  _____                               
   / /_/ / / __ `/ __ \/ _ \/ ___/                       
@@ -10,7 +10,8 @@
   / /   / __ \ | /| / / _ \/ ___/                                           
  / /___/ /_/ / |/ |/ /  __/ /                                   
 /_____/\____/|__/|__/\___/_/                                            
-                                                                    
+   
+```
 You're right! currnet score: 4
 Compare A: Dwayne Johnson, a Actor and professional wrestler, from United States
 
