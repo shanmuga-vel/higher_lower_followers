@@ -14,12 +14,12 @@
 ```
 You're right! currnet score: 4
 Compare A: Dwayne Johnson, a Actor and professional wrestler, from United States
-
+```
  _    __                                                                
 | |  / /____                                            
 | | / / ___/                                                            
 | |/ (__  )                                                 
 |___/____(_)                                                
-                                                
+ ```                                             
 Against B: Kim Kardashian, a Reality TV personality and businesswoman, from United States
 Who has more followers? Type 'A' or 'B':
